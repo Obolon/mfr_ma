@@ -1,0 +1,3 @@
+cat alphabet.txt
+a apple
+b boy
